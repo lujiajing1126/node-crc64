@@ -24,6 +24,9 @@
   "engines": {
     "node": ">= 10"
   },
+  "repository": {
+    "url": "github:lujiajing1126/node-crc64"
+  },
   "scripts": {
     "artifacts": "napi artifacts",
     "build": "napi build --platform --release --js binding.js --dts binding.d.ts",

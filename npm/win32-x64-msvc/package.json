@@ -11,6 +11,9 @@
   "files": [
     "node-crc64.win32-x64-msvc.node"
   ],
+  "repository": {
+    "url": "github:lujiajing1126/node-crc64"
+  },
   "license": "MIT",
   "engines": {
     "node": ">= 10"
