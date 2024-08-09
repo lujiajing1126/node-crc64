@@ -1,5 +1,5 @@
 {
-  "name": "node-crc64-linux-x64-gnu",
+  "name": "@dajipai/crc64-linux-x64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
