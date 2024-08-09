@@ -5,9 +5,9 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"@dajipai/node-crc64@workspace:.":
+"@dajipai/crc64@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@dajipai/node-crc64@workspace:."
+  resolution: "@dajipai/crc64@workspace:."
   dependencies:
     "@napi-rs/cli": "npm:^2.18.4"
     "@types/node": "npm:^22.1.0"
