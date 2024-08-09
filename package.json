@@ -1,5 +1,5 @@
 {
-  "name": "@dajipai/node-crc64",
+  "name": "@dajipai/crc64",
   "version": "0.2.0",
   "main": "index.js",
   "types": "index.d.ts",
